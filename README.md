@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Arthur
+- 👀 I’m interested in developing something
+- 🌱 I’m currently learning python
